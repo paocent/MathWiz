@@ -1,0 +1,9 @@
+streamlit
+sympy
+numpy
+scikit-learn
+pymupdf
+crewai
+python-dotenv
+requests
+transformers>=4.30.0  # optional - remove if you won't run HF locally
